@@ -1,16 +1,12 @@
-### Hi there 👋
+# Duh#2700
 
-<!--
-**WeLoveYouDuh/WeLoveYouDuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/WeLoveYouDuh">
+    <img src="https://discord.c99.nl/widget/theme-1/455044574696570880.png"/>
+     </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+![views](https://komarev.com/ghpvc/?username=Dir1337&style=flat-square&color=yellow) <br>
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dir1337&layout=compact&theme=dark) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=Dir1337&show_icons=true&theme=dark)
