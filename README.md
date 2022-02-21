@@ -7,6 +7,6 @@
 </p>
 
 # Stats
-![views](https://komarev.com/ghpvc/?username=qro&color=lightgrey) <br>
+![views](https://komarev.com/ghpvc/?username=weloveyouduh&color=lightgrey) <br>
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeLoveYouDuh&layout=compact&theme=dark) </br>
 ![stats](https://github-readme-stats.vercel.app/api?username=WeLoveYouDuh&show_icons=true&theme=dark)
