@@ -1,4 +1,4 @@
-# Duh#2700
+# Duh#1337
 
 <p align="center">
   <a href="https://github.com/WeLoveYouDuh">
