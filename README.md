@@ -1,4 +1,4 @@
-# 0x2ba30796f08#0432
+# Duh#1337
 
 <p align="center">
   <a href="https://github.com/WeLoveYouDuh">
